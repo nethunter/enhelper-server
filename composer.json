@@ -1,0 +1,14 @@
+{
+    "require": {
+	"php": ">=5.3.1",
+	"doctrine/dbal": "dev-master",
+        "silex/silex": "dev-master",
+	"kriswallsmith/buzz": "dev-master",
+	"davedevelopment/phpmig": "dev-master"
+    },
+
+    "config": {
+	"bin-dir": "bin/"
+    },
+    "minimum-stability": "dev"
+}
